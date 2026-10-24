@@ -7,6 +7,8 @@ st.set_page_config(
     page_icon="🏗️",
     layout="wide",
 )
+st.title("Construction Intelligence AI")
+st.success("The application has started successfully!")
 
 st.title("🏗️ Multimodal Construction Intelligence Platform")
 
