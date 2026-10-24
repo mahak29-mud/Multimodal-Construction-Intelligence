@@ -292,3 +292,5 @@ elif module == "Daily Site Assistant":
                 st.write(result)
         else:
             st.warning("Please enter a question first.")
+st.write("Construction Intelligence AI is starting!")
+st.write("If you can see this message, Streamlit rendering is working.")
